@@ -1,0 +1,82 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:4411435239814511357",
+      "lastPropertyId": "11:1940312017619283296",
+      "name": "HomeCashedDataEntity",
+      "properties": [
+        {
+          "id": "1:1624938803769529302",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:139500290947881257",
+          "name": "countryName",
+          "type": 9
+        },
+        {
+          "id": "3:3002370010992056418",
+          "name": "temperatureUnit",
+          "type": 9
+        },
+        {
+          "id": "4:1285082015763504862",
+          "name": "temperature",
+          "type": 9
+        },
+        {
+          "id": "5:8811634840658314900",
+          "name": "description",
+          "type": 9
+        },
+        {
+          "id": "6:3154451983962070566",
+          "name": "humidity",
+          "type": 9
+        },
+        {
+          "id": "7:8165253850785013842",
+          "name": "lastUpdate",
+          "type": 9
+        },
+        {
+          "id": "8:8465342130350337576",
+          "name": "windSpeed",
+          "type": 9
+        },
+        {
+          "id": "9:5988630069086904974",
+          "name": "minimumTemperature",
+          "type": 9
+        },
+        {
+          "id": "10:7266908876380040827",
+          "name": "maximumTemperature",
+          "type": 9
+        },
+        {
+          "id": "11:1940312017619283296",
+          "name": "hourlyJson",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:4411435239814511357",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
