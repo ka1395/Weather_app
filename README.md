@@ -1,6 +1,12 @@
 # 🌤️ Weather App - Flutter Assessment Implementation
 
 A comprehensive weather application built with Flutter that demonstrates advanced mobile development concepts including location services, state management, local caching, and clean architecture.
+## 📱 Screenshots
+<img src="https://github.com/user-attachments/assets/6d185527-c662-40e2-9ac4-c7c008b69cd6" width="250">
+<img src="https://github.com/user-attachments/assets/e49be0e1-900b-4ca0-91a2-29dd7b3709e3" width="250">
+<img src="https://github.com/user-attachments/assets/e50da74b-f8ec-404b-bba4-c3c1df207750" width="250">
+<img src="https://github.com/user-attachments/assets/1a5a6145-039b-42a2-9e16-2d14b8ef09ef" width="250">
+<img src="https://github.com/user-attachments/assets/fd332b22-7438-48aa-8ef5-cfaf2ab1fa89" width="250">
 
 ## 🎯 Assessment Requirements Analysis
 
@@ -114,8 +120,8 @@ HomeScreen → HomeCubit → HomeRepo →
 ## 🚀 Setup & Installation
 
 ### **Prerequisites**
-- Flutter SDK (3.0 or higher)
-- Dart SDK (3.0 or higher)
+- Flutter SDK (3.27.3)
+- Dart SDK (^3.6.1)
 - Android Studio / VS Code
 - Git
 
